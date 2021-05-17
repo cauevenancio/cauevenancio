@@ -25,12 +25,16 @@ Meu nome é Caue, tenho apenas 16 anos. Atualmente faço o curso técnico <br />
 
 - Star Wars <img src="https://i.pinimg.com/originals/03/5f/1c/035f1cea6add6e043189123043479aa7.gif" width="30px"></h2>
 <br />
+
 - The Walking Dead <img src="https://i.pinimg.com/originals/95/19/c0/9519c08b72a5694d91b96a0afc09d4e9.gif" width="30px"></h2>
 <br />
+
 - Ouvir músicas, desde clássicas até eletrônica <img src="https://i.pinimg.com/originals/85/b0/19/85b0197e30de3f3aaff4054bbfd53bb2.gif" width="30px"></h2>
 <br />
+
 - Tocar teclado (ou ao menos tentar) <img src="https://i.pinimg.com/originals/3d/59/39/3d5939caf9d51183fa91d5f87df4941e.gif" width="30px"></h2>
 <br />
+
 - Conhecer a França e morar lá <img src="https://i.pinimg.com/originals/34/0c/9b/340c9b8891918ff7835b7f76a62913cb.gif" width="30px"></h2>
 <br />
 
