@@ -20,6 +20,9 @@ Meu nome é Caue, tenho apenas 16 anos. Atualmente faço o curso técnico <br />
 ----
 
 ### Hobbies e Sonhos:
+
+---
+
 - Star Wars <img src="https://i.pinimg.com/originals/03/5f/1c/035f1cea6add6e043189123043479aa7.gif" width="30px"></h2>
 <br />
 - The Walking Dead <img src="https://i.pinimg.com/originals/95/19/c0/9519c08b72a5694d91b96a0afc09d4e9.gif" width="30px"></h2>
@@ -34,6 +37,8 @@ Meu nome é Caue, tenho apenas 16 anos. Atualmente faço o curso técnico <br />
 ---
 
 ### Minhas redes sociais:
+
+---
 
 <a href="https://twitter.com/cauevenancioo"><img src="https://i.pinimg.com/564x/8f/35/a4/8f35a40403a84631c4125c4f1859c7a6.jpg" width="16"></img>Twitter
 
