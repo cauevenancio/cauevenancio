@@ -30,6 +30,7 @@ Meu nome é Caue, tenho apenas 16 anos. Atualmente faço o curso técnico <br />
 <br />
 - Conhecer a França e morar lá <img src="https://i.pinimg.com/originals/34/0c/9b/340c9b8891918ff7835b7f76a62913cb.gif" width="30px"></h2>
 <br />
+
 ---
 
 ### Minhas redes sociais:
