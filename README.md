@@ -48,7 +48,6 @@ Meu nome é Caue, tenho apenas 16 anos. Atualmente faço o curso técnico <br />
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=cauevenancio&color=blue&style=flat">
 
 ![](https://komarev.com/ghpvc/?username=cauevenancio&color=21314a)
 
