@@ -15,7 +15,7 @@
 ## Um pouco sobre mim... <img src="https://i.pinimg.com/originals/f3/dc/52/f3dc5272a3b6907c6ffa41cff3285ba5.gif" width="30px"></h2>
 ---
 
-Meu nome é Caue, tenho apenas 16 anos. Atualmente faço o curso técnico <br />de desenvolvimento de sistemas e estou terminando o ensino médio.<br />Estudo principalmente Python, mas espero aprender diversas outras linguagens.
+Meu nome é Caue, tenho apenas 16 anos. Atualmente faço o curso técnico <br />de desenvolvimento de sistemas e estou terminando o ensino médio.<br />Estudo principalmente Python, mas espero aprender diversas outras linguagens!
 
 ----
 
